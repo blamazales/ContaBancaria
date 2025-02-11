@@ -30,7 +30,7 @@ Este projeto implementa um sistema bancário simples em Python, utilizando o par
 
 - Clone este repositório:
 
-git clone https://github.com/seu-usuario/sistema-bancario-poo.git
+git clone https://github.com/blamazales/ContaBancaria
 
 - Acesse o diretório do projeto:
 
